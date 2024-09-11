@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(63,10): warning C4047: 'fonction' : les niveaux d'indirection de 'Rc4Context *' et de 'Rc4Context **' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(63,10): warning C4024: 'rc4init' : types différents pour le paramètre formel et réel 1
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(86,12): warning C4047: 'fonction' : les niveaux d'indirection de 'Rc4Context *' et de 'Rc4Context **' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(86,12): warning C4024: 'rc4cipher' : types différents pour le paramètre formel et réel 1
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(90,45): warning C4047: 'fonction' : les niveaux d'indirection de 'BOOL' et de 'void *' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(90,45): warning C4024: 'OpenProcess' : types différents pour le paramètre formel et réel 2
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(108,10): warning C4047: 'fonction' : les niveaux d'indirection de 'Rc4Context *' et de 'Rc4Context **' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(108,10): warning C4024: 'rc4init' : types différents pour le paramètre formel et réel 1
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(110,12): warning C4047: 'fonction' : les niveaux d'indirection de 'Rc4Context *' et de 'Rc4Context **' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(110,12): warning C4024: 'rc4cipher' : types différents pour le paramètre formel et réel 1
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(121,12): warning C4047: 'fonction' : les niveaux d'indirection de 'Rc4Context *' et de 'Rc4Context **' sont différents
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(121,12): warning C4024: 'rc4cipher' : types différents pour le paramètre formel et réel 1
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\main.c(62,16): warning C4047: 'initialisation' : les niveaux d'indirection de 'unsigned char' et de 'char [8]' sont différents
+  rc4.c
+C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\Rc4Encryption\rc4.c(13,3): warning C4098: 'rc4init' : fonction 'void' retournant une valeur
+  Génération de code en cours...
+  Rc4Encryption.vcxproj -> C:\Users\Win-Malware01\Desktop\Malwares folder\P4yload_Encrypt1On\Rc4Encryption\x64\Debug\Rc4Encryption.exe
